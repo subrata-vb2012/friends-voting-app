@@ -1,16 +1,24 @@
-# friends_voting_app
+🗳️ Friends Voting App
+Description:
+ Helps a group of friends make decisions via anonymous votes. Stores voting history and results.
+Tech Stack:
+ Flutter, Firebase Firestore, GetX
+Features:
+Create new voting rooms
 
-A new Flutter project.
 
-## Getting Started
+Submit anonymous votes
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Display results
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Persist past decisions
+
+
+Screenshots: (Add images here)
+Run Locally:
+git clone https://github.com/subrata731215/friends-voting-app.git
+cd friends-voting-app
+flutter pub get
+flutter run
